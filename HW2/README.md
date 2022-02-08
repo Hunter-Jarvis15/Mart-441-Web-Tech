@@ -1,0 +1,2 @@
+Have had taken creative coding 1, this week was familiar. I the only thing that troubled me this week was getting this <script src="./js/script.js"></script> correct. 
+I kept putting the src = "./js/script.js" inside of the two script tags and finally put it inside the first one and then everything worked. 

@@ -1,0 +1,3 @@
+As I returned to creating my website, I realized I needed to brush up on all the finer details that go into creating a website. 
+I needed to get all the meta data included and refresh on linking to style sheets and other folders/ files, along with making sure my CSS file was working properly. 
+All in all, it was a good intro assignment to get back inot the swing of things and I can't wait to see how we incorporate JS. 
