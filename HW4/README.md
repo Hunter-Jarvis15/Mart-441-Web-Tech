@@ -1,0 +1,1 @@
+For this weeks homework, I created a survival situation with choices to go right or left like your example. After the first choice it changes the message to be either survival or death. I was struggling to get the restart button to work, but eventually pulled it off. I had to look back at my Week 3 homework to figure it out. Images worked the way I wanted them to. 

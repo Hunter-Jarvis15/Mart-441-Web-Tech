@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>Choose your own adventure</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Adventure">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content= "Hunter Jarvis">
+        <link rel="stylesheet" href="style.css" type="text/css" />
+        <script src="script.js"></script>
+    </head>
+    <style>
+        
+    </style>
+    
+    <body>
+
+        <h1>Lost</h1>
+        <br>
+        <img src="forest.jpeg" id="mainImage">
+    <div id="question">
+    <br>
+        You are stranded out in the middle of the forest.
+        <br>
+        As you look around you see moss on trees to your left and yellow mushrooms on your right.
+        <br>
+        Which way do you head, Left or Right?
+    </div>
+       
+        <br>
+        <input type="text" size="30" id="choice" value="Please enter Left or Right.">
+        <button id="btnSubmit" onclick="getChoice1();">Click to continue</button>
+
+        <input type="text" size="30" id="choice2" value="Enter straight or right." style="display:none">
+        <button id="btnSubmit2" onclick="getChoice2();"  style="display:none">Click to continue</button>
+
+        <input type="text" size="30" id="choice3" value="Enter left or right."  style="display:none">
+        <button id="btnSubmit3" onclick="getChoice3();" style="display:none">Click to continue</button>
+        
+        <input type="text" size="30" id="choice4" value="Enter restart."  style="display:none">
+        <button id="btnSubmit4" onclick="getChoice4();" style="display:none">Click to restart</button>
+        
+        <input type="text" size="30" id="choice5" value="Enter restart."  style="display:none">
+        <button id="btnSubmit5" onclick="getChoice5();" style="display:none">Click to restart</button>
+
+        <input type="text" size="30" id="choice6" value="Please enter Left or Right."  style="display:none">
+        <button id="btnSubmit5" onclick="getChoice6();" style="display:none">Click to continue</button>
+
+
+    </body>
+
+</html>
