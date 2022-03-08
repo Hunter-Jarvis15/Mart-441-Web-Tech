@@ -1,0 +1,1 @@
+Week 7 went pretty well as I already knew about classes and objects.  I was able to get everything to show up in my index.html page except for images. This was the only part of this weeks Homework that I struggled with. 
