@@ -1,0 +1,37 @@
+#square {
+    width: 100px;
+    height: 100px;
+    background: rgb(119, 194, 175);
+    position: absolute;
+    left: 0;
+    top: 500;
+  }
+  #rect {
+    width: 300px;
+    height: 100px;
+    background: rgb(231, 86, 134);
+    position: absolute;
+    left: 400;
+    top: 400;
+  }
+
+  .stuff{
+    background: blue;
+    color:white;
+    width: max-content;
+  }
+  .stuff2{
+    background: rgb(146, 146, 226);
+    color:white;
+    width: max-content;
+  }
+
+  #third{
+    background: green;
+    color:white;
+    width: max-content;
+  }
+
+  body{
+      background-color: rgb(155, 153, 151);
+  }
