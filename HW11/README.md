@@ -1,0 +1,1 @@
+For this weeks homework it felt very familiar to Creative Coding 1 and 2 with the use of P5js. Getting everything to move was pretty straight forward considering I've done this before, but now in a little bit of a different language. Overall this weeks homework went pretty smoothly.
